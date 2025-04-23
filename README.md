@@ -4,8 +4,8 @@
 <h3></h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lucashonorioo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="290" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashonorioo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" width="315"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucashonorioo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" width="290"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucashonorioo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" width="260"/>
 </div>
 
 
@@ -18,6 +18,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
